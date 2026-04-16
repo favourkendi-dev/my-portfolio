@@ -1,9 +1,9 @@
 ### Project Title
-
+My Portfolio
 ### Installation
 1. Clone the Repository :
 ``` bash
-git clone  git@github.com:favourkendi-dev/lab-1-javascriptcalclulator.git
+git clone  git@github.com:favourkendi-dev/my-portfolio.git
 
 ```
 
