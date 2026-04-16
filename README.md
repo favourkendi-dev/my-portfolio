@@ -7,7 +7,7 @@ git clone  git@github.com:favourkendi-dev/my-portfolio.git
 
 
 ### Usage
-- To run the project ,use the following commands
+- To run the project ,use the following command
 ``` bash
 Run open index.html
 
