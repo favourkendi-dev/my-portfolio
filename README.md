@@ -5,32 +5,26 @@ My Portfolio
 ``` bash
 git clone  git@github.com:favourkendi-dev/my-portfolio.git
 
-```
-
-2. Install Independencies
-``` bash
-npm install
-
-```
 
 ### Usage
 - To run the project ,use the following commands
 ``` bash
-npm start
+Run open index.html
 
 ```
 
 #### Features
 
-1. Addition
-2. Subtraction
-3. Division
-4. Multiplication
-5. History Retrival
+1. Hero Section
+2. About
+3. Skills
+4. Projects
+5. Footer
 
 ### Tools Used
 1. Vscode
 2. Googlechrome
+
 
 
 ### Contributing
