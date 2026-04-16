@@ -38,6 +38,9 @@ Run open index.html
 5. create a pull request
 
 ### Author
-```https://github.com/favourkendi-dev```
+```bash
+ https://github.com/favourkendi-dev
+ 
+```
 
 
