@@ -1,5 +1,8 @@
 ### Project Title
 My Portfolio
+### Poject Desription
+ This project is a comprehensive showcase of my journey as a developer, highlighting my skills, technical growth and the projects i have built while studying at Moringa School it consist of skills that have learnt so far and the projects have created .
+ 
 ### Installation
 1. Clone the Repository :
 ``` bash
